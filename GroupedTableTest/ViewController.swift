@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
     var tableView: UITableView!
-    //just var
+    // just var
     let data = [
         [], // первая секция без элементов
         Array(0...8),
